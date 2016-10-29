@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\02.DefineGenericList\obj\x86\Debug\02.DefineGenericList.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\02.DefineGenericList\obj\x86\Debug\02.DefineGenericList.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\02.DefineGenericList\bin\Debug\02.DefineGenericList.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\02.DefineGenericList\bin\Debug\02.DefineGenericList.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\02.DefineGenericList\obj\x86\Debug\ResolveAssemblyReference.cache

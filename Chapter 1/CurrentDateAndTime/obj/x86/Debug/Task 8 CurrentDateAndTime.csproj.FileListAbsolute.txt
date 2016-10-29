@@ -1,0 +1,5 @@
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 8 CurrentDateAndTime\bin\Debug\Task 8 CurrentDateAndTime.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 8 CurrentDateAndTime\bin\Debug\Task 8 CurrentDateAndTime.pdb
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 8 CurrentDateAndTime\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 8 CurrentDateAndTime\obj\x86\Debug\Task 8 CurrentDateAndTime.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 8 CurrentDateAndTime\obj\x86\Debug\Task 8 CurrentDateAndTime.pdb

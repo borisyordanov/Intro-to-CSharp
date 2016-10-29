@@ -1,0 +1,5 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\MostSuitableType\bin\Debug\MostSuitableType.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\MostSuitableType\bin\Debug\MostSuitableType.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\MostSuitableType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\MostSuitableType\obj\x86\Debug\MostSuitableType.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\MostSuitableType\obj\x86\Debug\MostSuitableType.pdb

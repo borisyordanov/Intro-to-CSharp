@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task14.RealToBinaryConvertor\bin\Debug\Task14.RealToBinaryConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task14.RealToBinaryConvertor\bin\Debug\Task14.RealToBinaryConvertor.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task14.RealToBinaryConvertor\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task14.RealToBinaryConvertor\obj\x86\Debug\Task14.RealToBinaryConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task14.RealToBinaryConvertor\obj\x86\Debug\Task14.RealToBinaryConvertor.pdb

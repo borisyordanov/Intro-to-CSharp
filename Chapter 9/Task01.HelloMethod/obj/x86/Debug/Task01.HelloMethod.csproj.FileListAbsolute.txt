@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task01.HelloMethod\bin\Debug\Task01.HelloMethod.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task01.HelloMethod\bin\Debug\Task01.HelloMethod.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task01.HelloMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task01.HelloMethod\obj\x86\Debug\Task01.HelloMethod.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task01.HelloMethod\obj\x86\Debug\Task01.HelloMethod.pdb

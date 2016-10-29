@@ -1,0 +1,5 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllPossibleTypesFloatingPointNumber\obj\x86\Debug\AllPossibleTypesFloatingPointNumber.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllPossibleTypesFloatingPointNumber\obj\x86\Debug\AllPossibleTypesFloatingPointNumber.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllPossibleTypesFloatingPointNumber\bin\Debug\AllPossibleTypesFloatingPointNumber.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllPossibleTypesFloatingPointNumber\bin\Debug\AllPossibleTypesFloatingPointNumber.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllPossibleTypesFloatingPointNumber\obj\x86\Debug\ResolveAssemblyReference.cache

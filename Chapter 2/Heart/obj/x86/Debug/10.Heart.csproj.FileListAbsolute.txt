@@ -1,0 +1,5 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\Heart\bin\Debug\Heart.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\Heart\bin\Debug\Heart.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\Heart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\Heart\obj\x86\Debug\Heart.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\Heart\obj\x86\Debug\Heart.pdb

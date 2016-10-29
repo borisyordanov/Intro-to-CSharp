@@ -1,0 +1,5 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllTypeOfNumber\bin\Debug\AllTypeOfNumber.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllTypeOfNumber\bin\Debug\AllTypeOfNumber.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllTypeOfNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllTypeOfNumber\obj\x86\Debug\AllTypeOfNumber.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllTypeOfNumber\obj\x86\Debug\AllTypeOfNumber.pdb

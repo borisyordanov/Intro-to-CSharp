@@ -1,0 +1,5 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\castObjectToString\bin\Debug\castObjectToString.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\castObjectToString\bin\Debug\castObjectToString.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\castObjectToString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\castObjectToString\obj\x86\Debug\castObjectToString.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\castObjectToString\obj\x86\Debug\castObjectToString.pdb

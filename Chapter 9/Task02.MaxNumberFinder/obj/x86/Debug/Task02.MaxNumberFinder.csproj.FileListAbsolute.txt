@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task02.MaxNumberFinder\bin\Debug\Task02.MaxNumberFinder.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task02.MaxNumberFinder\bin\Debug\Task02.MaxNumberFinder.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task02.MaxNumberFinder\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task02.MaxNumberFinder\obj\x86\Debug\Task02.MaxNumberFinder.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task02.MaxNumberFinder\obj\x86\Debug\Task02.MaxNumberFinder.pdb

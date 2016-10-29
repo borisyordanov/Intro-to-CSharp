@@ -1,0 +1,5 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\HexToDec\bin\Debug\HexToDec.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\HexToDec\bin\Debug\HexToDec.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\HexToDec\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\HexToDec\obj\x86\Debug\HexToDec.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\HexToDec\obj\x86\Debug\HexToDec.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\01.PhonesInfo\obj\x86\Debug\01.PhonesInfo.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\01.PhonesInfo\obj\x86\Debug\01.PhonesInfo.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\01.PhonesInfo\bin\Debug\01.PhonesInfo.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\01.PhonesInfo\bin\Debug\01.PhonesInfo.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\01.PhonesInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\17.DefClasses\17.DefClasses\01.PhonesInfo\obj\x86\Debug\01.PhonesInfo.exe
+C:\Users\Stefan\Desktop\17.DefClasses\17.DefClasses\01.PhonesInfo\obj\x86\Debug\01.PhonesInfo.pdb
+C:\Users\Ivan\Desktop\14.DefClassesFinal\Solution\17.DefiningClasses\01.PhonesInfo\obj\x86\Debug\01.PhonesInfo.exe
+C:\Users\Ivan\Desktop\14.DefClassesFinal\Solution\17.DefiningClasses\01.PhonesInfo\obj\x86\Debug\01.PhonesInfo.pdb
+C:\Users\Ivan\Desktop\14.DefClassesFinal\Solution\17.DefiningClasses\01.PhonesInfo\bin\Debug\01.PhonesInfo.exe
+C:\Users\Ivan\Desktop\14.DefClassesFinal\Solution\17.DefiningClasses\01.PhonesInfo\bin\Debug\01.PhonesInfo.pdb
+C:\Users\Ivan\Desktop\14.DefClassesFinal\Solution\17.DefiningClasses\01.PhonesInfo\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 9 SquareRoot\bin\Debug\Task 9 SquareRoot.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 9 SquareRoot\bin\Debug\Task 9 SquareRoot.pdb
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 9 SquareRoot\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 9 SquareRoot\obj\x86\Debug\Task 9 SquareRoot.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 9 SquareRoot\obj\x86\Debug\Task 9 SquareRoot.pdb

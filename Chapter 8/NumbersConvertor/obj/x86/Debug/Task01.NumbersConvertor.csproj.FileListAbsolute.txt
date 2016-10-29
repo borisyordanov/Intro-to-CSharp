@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task01.NumbersConvertor\bin\Debug\Task01.NumbersConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task01.NumbersConvertor\bin\Debug\Task01.NumbersConvertor.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task01.NumbersConvertor\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task01.NumbersConvertor\obj\x86\Debug\Task01.NumbersConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task01.NumbersConvertor\obj\x86\Debug\Task01.NumbersConvertor.pdb

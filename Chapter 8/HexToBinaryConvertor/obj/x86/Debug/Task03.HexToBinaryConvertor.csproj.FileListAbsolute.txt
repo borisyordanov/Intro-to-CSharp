@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task03.HexToBinaryConvertor\bin\Debug\Task03.HexToBinaryConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task03.HexToBinaryConvertor\bin\Debug\Task03.HexToBinaryConvertor.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task03.HexToBinaryConvertor\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task03.HexToBinaryConvertor\obj\x86\Debug\Task03.HexToBinaryConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task03.HexToBinaryConvertor\obj\x86\Debug\Task03.HexToBinaryConvertor.pdb

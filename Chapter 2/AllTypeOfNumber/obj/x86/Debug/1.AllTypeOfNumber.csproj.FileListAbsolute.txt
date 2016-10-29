@@ -1,0 +1,2 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllTypeOfNumber\obj\x86\Debug\AllTypeOfNumber.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\AllTypeOfNumber\obj\x86\Debug\AllTypeOfNumber.pdb

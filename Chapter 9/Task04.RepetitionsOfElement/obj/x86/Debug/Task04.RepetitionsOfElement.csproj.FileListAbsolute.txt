@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task04.RepetitionsOfElement\bin\Debug\Task04.RepetitionsOfElement.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task04.RepetitionsOfElement\bin\Debug\Task04.RepetitionsOfElement.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task04.RepetitionsOfElement\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task04.RepetitionsOfElement\obj\x86\Debug\Task04.RepetitionsOfElement.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task04.RepetitionsOfElement\obj\x86\Debug\Task04.RepetitionsOfElement.pdb

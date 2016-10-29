@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task011.Factorial\bin\Debug\Task011.Factorial.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task011.Factorial\bin\Debug\Task011.Factorial.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task011.Factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task011.Factorial\obj\x86\Debug\Task011.Factorial.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task011.Factorial\obj\x86\Debug\Task011.Factorial.pdb

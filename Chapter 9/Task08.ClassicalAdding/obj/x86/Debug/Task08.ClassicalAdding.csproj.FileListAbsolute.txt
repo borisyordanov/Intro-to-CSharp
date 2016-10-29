@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task08.ClassicalAdding\bin\Debug\Task08.ClassicalAdding.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task08.ClassicalAdding\bin\Debug\Task08.ClassicalAdding.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task08.ClassicalAdding\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task08.ClassicalAdding\obj\x86\Debug\Task08.ClassicalAdding.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task08.ClassicalAdding\obj\x86\Debug\Task08.ClassicalAdding.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\15. DefineFraction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\15. DefineFraction\bin\Debug\_15.DefineFraction.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\15. DefineFraction\bin\Debug\_15.DefineFraction.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\15. DefineFraction\obj\x86\Debug\_15.DefineFraction.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\17.DefClasses\15. DefineFraction\obj\x86\Debug\_15.DefineFraction.pdb

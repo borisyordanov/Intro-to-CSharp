@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task09.ArraySearchAndSort\bin\Debug\Task09.ArraySearchAndSort.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task09.ArraySearchAndSort\bin\Debug\Task09.ArraySearchAndSort.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task09.ArraySearchAndSort\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task09.ArraySearchAndSort\obj\x86\Debug\Task09.ArraySearchAndSort.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task09.ArraySearchAndSort\obj\x86\Debug\Task09.ArraySearchAndSort.pdb

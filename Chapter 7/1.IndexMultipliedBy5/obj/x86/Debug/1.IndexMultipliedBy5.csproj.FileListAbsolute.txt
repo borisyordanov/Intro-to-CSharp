@@ -1,0 +1,5 @@
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\1.IndexMultipliedBy5\bin\Debug\1.IndexMultipliedBy5.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\1.IndexMultipliedBy5\bin\Debug\1.IndexMultipliedBy5.pdb
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\1.IndexMultipliedBy5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\1.IndexMultipliedBy5\obj\x86\Debug\1.IndexMultipliedBy5.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\1.IndexMultipliedBy5\obj\x86\Debug\1.IndexMultipliedBy5.pdb

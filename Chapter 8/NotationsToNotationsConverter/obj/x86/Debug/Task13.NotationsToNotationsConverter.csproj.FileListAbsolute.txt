@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task13.NotationsToNotationsConverter\bin\Debug\Task13.NotationsToNotationsConverter.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task13.NotationsToNotationsConverter\bin\Debug\Task13.NotationsToNotationsConverter.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task13.NotationsToNotationsConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task13.NotationsToNotationsConverter\obj\x86\Debug\Task13.NotationsToNotationsConverter.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task13.NotationsToNotationsConverter\obj\x86\Debug\Task13.NotationsToNotationsConverter.pdb

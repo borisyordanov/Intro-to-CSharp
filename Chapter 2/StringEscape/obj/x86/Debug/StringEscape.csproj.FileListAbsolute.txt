@@ -1,0 +1,5 @@
+c:\users\boyan zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\StringEscape\bin\Debug\StringEscape.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\StringEscape\bin\Debug\StringEscape.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\StringEscape\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\StringEscape\obj\x86\Debug\StringEscape.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\StringEscape\obj\x86\Debug\StringEscape.pdb

@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task13.PolynomialMultiplier\bin\Debug\Task13.PolynomialMultiplier.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task13.PolynomialMultiplier\bin\Debug\Task13.PolynomialMultiplier.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task13.PolynomialMultiplier\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task13.PolynomialMultiplier\obj\x86\Debug\Task13.PolynomialMultiplier.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task13.PolynomialMultiplier\obj\x86\Debug\Task13.PolynomialMultiplier.pdb

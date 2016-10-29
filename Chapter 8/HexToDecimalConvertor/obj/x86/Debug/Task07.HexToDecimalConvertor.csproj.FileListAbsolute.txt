@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task07.HexToDecimalConvertor\bin\Debug\Task07.HexToDecimalConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task07.HexToDecimalConvertor\bin\Debug\Task07.HexToDecimalConvertor.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task07.HexToDecimalConvertor\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task07.HexToDecimalConvertor\obj\x86\Debug\Task07.HexToDecimalConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task07.HexToDecimalConvertor\obj\x86\Debug\Task07.HexToDecimalConvertor.pdb

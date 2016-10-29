@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task10.HornerConvertor\bin\Debug\Task10.HornerConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task10.HornerConvertor\bin\Debug\Task10.HornerConvertor.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task10.HornerConvertor\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task10.HornerConvertor\obj\x86\Debug\Task10.HornerConvertor.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Task10.HornerConvertor\obj\x86\Debug\Task10.HornerConvertor.pdb

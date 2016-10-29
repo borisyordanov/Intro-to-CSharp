@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Taso02.BinaryToHexAndDecimal\bin\Debug\Taso02.BinaryToHexAndDecimal.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Taso02.BinaryToHexAndDecimal\bin\Debug\Taso02.BinaryToHexAndDecimal.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Taso02.BinaryToHexAndDecimal\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Taso02.BinaryToHexAndDecimal\obj\x86\Debug\Taso02.BinaryToHexAndDecimal.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\Exams\Chapter08.TeamWork\Taso02.BinaryToHexAndDecimal\obj\x86\Debug\Taso02.BinaryToHexAndDecimal.pdb

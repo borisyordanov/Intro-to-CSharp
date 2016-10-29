@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task05.NeighboursComparer\bin\Debug\Task05.NeighboursComparer.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task05.NeighboursComparer\bin\Debug\Task05.NeighboursComparer.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task05.NeighboursComparer\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task05.NeighboursComparer\obj\x86\Debug\Task05.NeighboursComparer.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task05.NeighboursComparer\obj\x86\Debug\Task05.NeighboursComparer.pdb

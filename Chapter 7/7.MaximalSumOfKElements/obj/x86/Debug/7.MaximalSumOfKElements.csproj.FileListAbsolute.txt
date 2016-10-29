@@ -1,0 +1,5 @@
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\7.MaximalSumOfKElements\bin\Debug\7.MaximalSumOfKElements.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\7.MaximalSumOfKElements\bin\Debug\7.MaximalSumOfKElements.pdb
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\7.MaximalSumOfKElements\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\7.MaximalSumOfKElements\obj\x86\Debug\7.MaximalSumOfKElements.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\7.MaximalSumOfKElements\obj\x86\Debug\7.MaximalSumOfKElements.pdb

@@ -1,0 +1,5 @@
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task03.DigitToWordConverter\bin\Debug\Task03.DigitToWordConverter.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task03.DigitToWordConverter\bin\Debug\Task03.DigitToWordConverter.pdb
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task03.DigitToWordConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task03.DigitToWordConverter\obj\x86\Debug\Task03.DigitToWordConverter.exe
+R:\Projects\CodeDevelop\Visual Studio 2010\Projects\TeamWork\Final\Chapter09.TeamWork\Task03.DigitToWordConverter\obj\x86\Debug\Task03.DigitToWordConverter.pdb

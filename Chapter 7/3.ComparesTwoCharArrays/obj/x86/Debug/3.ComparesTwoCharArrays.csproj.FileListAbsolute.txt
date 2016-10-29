@@ -1,0 +1,5 @@
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\3.ComparesTwoCharArrays\bin\Debug\3.ComparesTwoCharArrays.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\3.ComparesTwoCharArrays\bin\Debug\3.ComparesTwoCharArrays.pdb
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\3.ComparesTwoCharArrays\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\3.ComparesTwoCharArrays\obj\x86\Debug\3.ComparesTwoCharArrays.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\3.ComparesTwoCharArrays\obj\x86\Debug\3.ComparesTwoCharArrays.pdb

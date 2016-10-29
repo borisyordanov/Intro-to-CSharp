@@ -1,0 +1,5 @@
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 6 PrintingAName\bin\Debug\Task 6 PrintingAName.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 6 PrintingAName\bin\Debug\Task 6 PrintingAName.pdb
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 6 PrintingAName\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 6 PrintingAName\obj\x86\Debug\Task 6 PrintingAName.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 6 PrintingAName\obj\x86\Debug\Task 6 PrintingAName.pdb

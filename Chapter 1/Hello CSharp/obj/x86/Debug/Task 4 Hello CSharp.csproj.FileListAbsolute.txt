@@ -1,0 +1,5 @@
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 4 Hello CSharp\bin\Debug\Task 4 Hello CSharp.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 4 Hello CSharp\bin\Debug\Task 4 Hello CSharp.pdb
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 4 Hello CSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 4 Hello CSharp\obj\x86\Debug\Task 4 Hello CSharp.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 4 Hello CSharp\obj\x86\Debug\Task 4 Hello CSharp.pdb

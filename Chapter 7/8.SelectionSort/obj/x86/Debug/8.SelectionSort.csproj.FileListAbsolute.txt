@@ -1,0 +1,5 @@
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\8.SelectionSort\bin\Debug\8.SelectionSort.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\8.SelectionSort\bin\Debug\8.SelectionSort.pdb
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\8.SelectionSort\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\8.SelectionSort\obj\x86\Debug\8.SelectionSort.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\8.SelectionSort\obj\x86\Debug\8.SelectionSort.pdb

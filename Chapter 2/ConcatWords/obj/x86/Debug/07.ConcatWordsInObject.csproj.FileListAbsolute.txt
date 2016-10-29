@@ -1,0 +1,5 @@
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\ConcatWords\obj\x86\Debug\ConcatWords.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\ConcatWords\obj\x86\Debug\ConcatWords.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\ConcatWords\bin\Debug\ConcatWords.exe
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\ConcatWords\bin\Debug\ConcatWords.pdb
+C:\Users\Boyan Zhelyazkov\documents\visual studio 2010\Projects\Chaptter2\ConcatWords\obj\x86\Debug\ResolveAssemblyReference.cache

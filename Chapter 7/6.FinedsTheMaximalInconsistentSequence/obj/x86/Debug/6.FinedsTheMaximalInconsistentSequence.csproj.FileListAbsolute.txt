@@ -1,0 +1,5 @@
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\6.FinedsTheMaximalInconsistentSequence\bin\Debug\6.FinedsTheMaximalInconsistentSequence.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\6.FinedsTheMaximalInconsistentSequence\bin\Debug\6.FinedsTheMaximalInconsistentSequence.pdb
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\6.FinedsTheMaximalInconsistentSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\6.FinedsTheMaximalInconsistentSequence\obj\x86\Debug\6.FinedsTheMaximalInconsistentSequence.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\6.FinedsTheMaximalInconsistentSequence\obj\x86\Debug\6.FinedsTheMaximalInconsistentSequence.pdb

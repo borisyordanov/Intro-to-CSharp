@@ -1,0 +1,5 @@
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 10 PrintingASequence\bin\Debug\Task 10 PrintingASequence.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 10 PrintingASequence\bin\Debug\Task 10 PrintingASequence.pdb
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 10 PrintingASequence\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 10 PrintingASequence\obj\x86\Debug\Task 10 PrintingASequence.exe
+c:\users\jester\documents\visual studio 2010\Projects\Chapter 1\Task 10 PrintingASequence\obj\x86\Debug\Task 10 PrintingASequence.pdb

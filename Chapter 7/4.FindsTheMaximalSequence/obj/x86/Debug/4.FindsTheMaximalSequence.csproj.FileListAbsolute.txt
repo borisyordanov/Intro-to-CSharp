@@ -1,0 +1,5 @@
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\4.FindsTheMaximalSequence\bin\Debug\4.FindsTheMaximalSequence.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\4.FindsTheMaximalSequence\bin\Debug\4.FindsTheMaximalSequence.pdb
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\4.FindsTheMaximalSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\4.FindsTheMaximalSequence\obj\x86\Debug\4.FindsTheMaximalSequence.exe
+D:\MS Visual Studio 2010\CSharpCourse\Team33\Arrays\4.FindsTheMaximalSequence\obj\x86\Debug\4.FindsTheMaximalSequence.pdb
